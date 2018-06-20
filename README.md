@@ -1,2 +1,2 @@
 # Shake-It-Off
-Songwriting
+Done in the playgound. Learning to use functions and for int loops.
